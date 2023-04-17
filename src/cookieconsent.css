@@ -974,9 +974,6 @@ html.force--consent.show--consent body{
     width: 100%;
 }
 
-#cm.cloud .c-bn:first-child{
-    margin: 0;
-}
 
 #cm.cloud.left{
     margin-right: 1.25em;
